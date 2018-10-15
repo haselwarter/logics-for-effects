@@ -8,4 +8,4 @@
 * [Formal verification of higher-order probabilistic programs](https://arxiv.org/abs/1807.06091), Sato et al.
 
 # Schedule
-* 25.10.2018 : Gavin on _Hoare Type Theory_
+* 18.10.2018 : Gavin on _Hoare Type Theory_
