@@ -9,3 +9,4 @@
 
 # Schedule
 * 18.10.2018 : Gavin on _Hoare Type Theory_
+* 8.11.2018 : Žiga on an example from _Hoare Type Theory_
