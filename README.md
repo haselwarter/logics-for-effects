@@ -15,4 +15,4 @@
 * 22.11.2018 : Alex on _Dependent Types and Multi-Monadic Effects in F*_
 * 20.12.2018 : Žiga on _Dijkstra Monads for Free_
 * 10.01.2019 : Danel talked about F* more broadly
-* 24.01.2019 : Danel will continue talking about F*
+* 31.01.2019 : Danel will continue talking about F*
